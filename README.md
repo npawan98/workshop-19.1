@@ -1,6 +1,6 @@
 # Welcome to Webdev Basic workshop 19.1
 
-![enter image description here](https://photos.app.goo.gl/uV5wNLAAgV1R4EBf9)
+![](https://github.com/npawan98/workshop-19.1/blob/master/poster.PNG)
 
 
 # Introduction
